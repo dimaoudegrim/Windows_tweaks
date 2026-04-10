@@ -1,7 +1,7 @@
 Disclaimer: I used Perplexity for summerize the titles or description in this readme.
 In this repo I have 2 main files. One of them is a registry file that needs to open as administrator and also as the current user. the second file is a powershell for debloating some programs and needs to run as admin. 
 
-I seperate what each file does in this readme. while the first part is for the reg file, and the second part will include the script.
+I've seperated what each file does in this readme. while the first part is for the reg file, and the second part will include the script.
 
 ----------------
 -REGISTRY FILE:-
