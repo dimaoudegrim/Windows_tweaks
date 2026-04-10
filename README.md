@@ -1,4 +1,11 @@
 Disclaimer: I used Perplexity for summerize the titles or description in this readme.
+In this repo I have 2 main files. One of them is a registry file that needs to open as administrator and also as the current user. the second file is a powershell for debloating some programs and needs to run as admin. 
+
+I seperate what each file does in this readme. while the first part is for the reg file, and the second part will include the script.
+
+----------------
+-REGISTRY FILE:-
+----------------
 
 -----Performance & Memory-----
 *	Increases the icon cache size so Explorer renders icons faster without re-loading them
@@ -92,3 +99,33 @@ Disclaimer: I used Perplexity for summerize the titles or description in this re
 *	Increases the service startup pipe timeout to 30 seconds, giving slower services more time to initialize
 
 
+---------------------
+-SCRIPT FOR DEBLOAT--
+---------------------
+* Clipchamp
+* Bing News
+* Bing Weather
+* Xbox Gaming App
+* Get Help
+* Get Started / Tips
+* Solitaire Collection
+* People
+* Power Automate Desktop
+* Alarms & Clock
+* Mail & Calendar
+* Feedback Hub
+* Maps
+* Xbox overlays (3x)
+* Phone Link
+* Groove Music
+* Movies & TV
+* Family Safety
+* Quick Assist
+* Microsoft Teams (both versions)
+* Cortana
+* Copilot (app + sidebar)
+* Outlook for Windows
+* Internet Explorer
+* Language Handwriting/OCR/Speech/TTS
+* Tablet PC Math
+* Steps Recorder
