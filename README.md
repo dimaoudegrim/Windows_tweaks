@@ -22,6 +22,7 @@ REGISTRY FILE: 136 CONFIGURATIONS.
 - Reduces the menu popup hover delay to 100ms.
 - Increases the icon cache size so Explorer renders icons faster without re-loading them.
 - Increases the service startup pipe timeout to 45 seconds to give slower services more time to initialize.
+- Runs the Windows desktop and taskbar in a separate Explorer process
 
 ### 🎮 Gaming & Multimedia
 - Allocates more CPU time to multimedia tasks to reduce system responsiveness overhead.
