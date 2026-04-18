@@ -52,7 +52,7 @@ Windows Registry Editor Version 5.00
 "DelayedDesktopSwitchTimeout"=dword:00000005
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
-"ServicesPipeTimeout"=dword:00007530
+"ServicesPipeTimeout"=dword:0000afc8
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization]
 "NoLockScreen"=dword:00000001
