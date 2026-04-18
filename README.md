@@ -11,7 +11,6 @@ REGISTRY FILE: 136 CONFIGURATIONS.
 ----------------
 ### 🚀 Performance & Responsiveness
 - Launch folder windows in a separate process
-- Increases the icon cache size so Explorer renders icons faster without re-loading them.
 - Keeps the Windows kernel and drivers loaded in RAM instead of being swapped to the page file.
 - Removes the artificial startup delay that Explorer normally waits before loading.
 - Optimizes CPU time-slice scheduling to favor foreground and active applications over background processes.
@@ -21,6 +20,7 @@ REGISTRY FILE: 136 CONFIGURATIONS.
 - Disables the creation of legacy 8.3 short filenames on NTFS for a small disk I/O improvement.
 - Sets the Font Cache service to start automatically so fonts load faster.
 - Reduces the menu popup hover delay to 100ms.
+- Increases the icon cache size so Explorer renders icons faster without re-loading them.
 - Increases the service startup pipe timeout to 30 seconds to give slower services more time to initialize.
 
 ### 🎮 Gaming & Multimedia
