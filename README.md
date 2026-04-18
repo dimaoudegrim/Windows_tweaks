@@ -10,6 +10,7 @@ Disclaimer: I used Perplexity for summerize the titles or description in this re
 REGISTRY FILE: 135 CONFIGURATIONS.
 ----------------
 ### 🚀 Performance & Responsiveness
+- Launch folder windows in a separate process
 - Increases the icon cache size so Explorer renders icons faster without re-loading them.
 - Keeps the Windows kernel and drivers loaded in RAM instead of being swapped to the page file.
 - Removes the artificial startup delay that Explorer normally waits before loading.
