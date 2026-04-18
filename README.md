@@ -1,13 +1,13 @@
 Registry  and powershell tweaks for windows to enhance performance, Responsiveness, Privacy, remove telemetry and AI, improve network performance, improve user experience and more. 
 
-In this repo I have 2 main files. One of them is a registry file with 136 configuratinos that needs to open as administrator and also as the current user. 
+In this repo I have 2 main files. One of them is a registry file with more than 135 configurations that needs to open as administrator and also as the current user. 
 The second file is a powershell for debloating 27 programs and needs to run as admin. 
 
 I've seperated what each file does in this readme. while the first part is for the reg file, and the second part will include the script.
 Disclaimer: I used Perplexity for summerize the titles or description in this readme.
 
 ----------------
-REGISTRY FILE: 136 CONFIGURATIONS.
+REGISTRY FILE: 137 CONFIGURATIONS.
 ----------------
 ### 🚀 Performance & Responsiveness
 - Launch folder windows in a separate process
