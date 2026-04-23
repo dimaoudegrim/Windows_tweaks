@@ -23,6 +23,7 @@ REGISTRY FILE: 141 CONFIGURATIONS.
 - Increases the icon cache size so Explorer renders icons faster without re-loading them.
 - Increases the service startup pipe timeout to 45 seconds to give slower services more time to initialize.
 - Runs the Windows desktop and taskbar in a separate Explorer process
+- Enable "End Task" button on taskbar
 
 ### 🎮 Gaming & Multimedia
 - Allocates more CPU time to multimedia tasks to reduce system responsiveness overhead.
@@ -55,6 +56,20 @@ REGISTRY FILE: 141 CONFIGURATIONS.
 - Disable Tailored Experiences With Diagnostic Data Enabled
 - Disable Location sensors
 - Disable Location sensor Scripting
+- * Opt out of sending browser language to websites
+- Disable Connected Devices Platform (CDP)
+-  Block apps from accessing location
+- Block apps from broad file system access
+- Block apps from using system AI models
+- Block apps from accessing account info
+- Block apps from accessing contacts
+- Block apps from making phone calls
+- Block apps from accessing call history
+- Block apps from accessing email
+- Block apps from accessing diagnostics data
+- Block apps from accessing Documents folder
+- Block apps from accessing Music folder
+- Block apps from accessing Pictures folder
 
 ### 🔎 Search, Start & Interface
 - Disables Bing-powered web results in the Start menu search.
