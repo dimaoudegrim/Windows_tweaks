@@ -56,9 +56,9 @@ REGISTRY FILE: 141 CONFIGURATIONS.
 - Disable Tailored Experiences With Diagnostic Data Enabled
 - Disable Location sensors
 - Disable Location sensor Scripting
-- * Opt out of sending browser language to websites
+- Opt out of sending browser language to websites
 - Disable Connected Devices Platform (CDP)
--  Block apps from accessing location
+- Block apps from accessing location
 - Block apps from broad file system access
 - Block apps from using system AI models
 - Block apps from accessing account info
