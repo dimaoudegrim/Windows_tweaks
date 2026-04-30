@@ -1,13 +1,13 @@
 Registry  and powershell tweaks for windows to enhance performance, Responsiveness, Privacy, remove telemetry and AI, improve network performance, improve user experience and more. 
 
-In this repo I have 2 main files. One of them is a registry file with 176 configurations that needs to open as administrator and also as the current user. 
+In this repo I have 2 main files. One of them is a registry file with 179 configurations that needs to open as administrator and also as the current user. 
 The second file is a powershell for debloating 27 programs and needs to run as admin. 
 
 I've seperated what each file does in this readme. while the first part is for the reg file, and the second part will include the script.
 Disclaimer: I used Perplexity for summerize the titles or description in this readme.
 
 ----------------
-REGISTRY FILE: 176 CONFIGURATIONS.
+REGISTRY FILE: 179 CONFIGURATIONS.
 ----------------
 ### 🚀 Performance & Responsiveness
 - Launch folder windows in a separate process
@@ -24,6 +24,8 @@ REGISTRY FILE: 176 CONFIGURATIONS.
 - Increases the service startup pipe timeout to 45 seconds to give slower services more time to initialize.
 - Runs the Windows desktop and taskbar in a separate Explorer process
 - Enable "End Task" button on taskbar
+- Increases NTFS memory use for better file‑system performance.
+- Turns off NTFS file compression to save CPU and speed.
 
 ### 🎮 Gaming & Multimedia
 - Allocates more CPU time to multimedia tasks to reduce system responsiveness overhead.
